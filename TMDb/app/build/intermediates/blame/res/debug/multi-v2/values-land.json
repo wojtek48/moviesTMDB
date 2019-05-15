@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wpawl\\Desktop\\android\\TMDb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wpawl\\.gradle\\caches\\transforms-2\\files-2.1\\f8c5f1e8c64ffa183ed7af7bb5b07257\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wpawl\\Desktop\\android\\TMDb\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "661",
+                        "endColumns": "47",
+                        "endOffsets": "704"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "414",
+                        "endColumns": "47",
+                        "endOffsets": "457"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wpawl\\Desktop\\android\\TMDb\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "85",
+                        "endOffsets": "138"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "85",
+                        "endOffsets": "409"
+                    }
+                }
+            ]
+        }
+    ]
+}
